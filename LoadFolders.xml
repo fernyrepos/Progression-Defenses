@@ -1,0 +1,12 @@
+<loadFolders>
+  <v1.5>
+    <li>/</li>
+    <li IfModActive="oskarpotocki.vfe.classical">Mods and Shit/VFE Classical</li>
+    <li IfModActive="oskarpotocki.vfe.mechanoid">Mods and Shit/VFE Mechanoids</li>
+    <li IfModActive="oskarpotocki.vfe.pirates">Mods and Shit/VFE Pirates</li>
+    <li IfModActive="vanillaexpanded.vfesecurity">Mods and Shit/VFE Security</li>
+    <li IfModActive="Reel.TurretPipeline">Mods and Shit/Reel Turret Pipes</li>
+    <li IfModActive="Mlie.ReinforcedMechanoid2">Mods and Shit/Reinforced Mechanoid 2</li>
+    <li IfModActive="oskarpotocki.vfe.medieval2">Mods and Shit/VFE Medieval 2</li>
+  </v1.5>
+</loadFolders>
