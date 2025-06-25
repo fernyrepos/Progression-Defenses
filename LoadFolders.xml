@@ -8,5 +8,8 @@
     <li IfModActive="Reel.TurretPipeline">Mods and Shit/Reel Turret Pipes</li>
     <li IfModActive="Mlie.ReinforcedMechanoid2">Mods and Shit/Reinforced Mechanoid 2</li>
     <li IfModActive="oskarpotocki.vfe.medieval2">Mods and Shit/VFE Medieval 2</li>
+    <li IfModActive="Mlie.ReinforcedMechanoid2">Mods and Shit/Reinforced Mechanoid 2</li>
+    <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="VanillaExpanded.vwe">Mods and Shit/VE Weapons</li>
   </v1.5>
 </loadFolders>
