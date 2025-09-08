@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <Patch>
-<!-- REINFORCED MECHANOID 2 PATCHES -->
-    <!-- RM_Turret_AutoShardLance -->
-    <Operation Class="PatchOperationReplace">
-        <xpath>Defs/ThingDef[defName="RM_Turret_AutoShardLance"]/designationCategory</xpath>
-        <value>
-            <designationCategory>Security</designationCategory>
-        </value>
-    </Operation>
-    <!-- RM_Turret_AutoShardSwarmer -->
-    <Operation Class="PatchOperationReplace">
-        <xpath>Defs/ThingDef[defName="RM_Turret_AutoShardSwarmer"]/designationCategory</xpath>
-        <value>
-            <designationCategory>Security</designationCategory>
-        </value>
-    </Operation>
 
     <!-- Patch for Reel.TurretPipeline -->
     <Operation Class="PatchOperationFindMod">
